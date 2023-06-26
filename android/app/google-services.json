@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017201549258",
+    "project_id": "yahsua-c6653",
+    "storage_bucket": "yahsua-c6653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017201549258:android:b14524507dc36fd304b933",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017201549258-l05drt8v0diuadu98btfd2dmtlvq4gq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjZrjshF8WGk-_X2t4jGVkfDZAwC1Kqks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017201549258-l05drt8v0diuadu98btfd2dmtlvq4gq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
